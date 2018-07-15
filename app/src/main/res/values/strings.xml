@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Pet Bio</string>
+    <string name="title_activity_cat_activity">Cat_activity</string>
+    <string name="cat_name">Hi ....meow</string>
+    <string name="dog_name">Hi.....Woof!!</string>
+</resources>
